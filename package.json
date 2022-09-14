@@ -1,5 +1,5 @@
 {
-  "name": "simple-logger",
+  "name": "@csalih/simple-logger",
   "version": "0.1.0-alpha.1",
   "description": "A simple and lightweight logger.",
   "license": "MIT",
